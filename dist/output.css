@@ -703,10 +703,6 @@ video {
   height: 2.25rem;
 }
 
-.max-h-\[20px\] {
-  max-height: 20px;
-}
-
 .w-9 {
   width: 2.25rem;
 }
@@ -733,14 +729,6 @@ video {
 
 .max-w-xl {
   max-width: 36rem;
-}
-
-.max-w-\[30px\] {
-  max-width: 30px;
-}
-
-.max-w-\[130px\] {
-  max-width: 130px;
 }
 
 .origin-bottom-left {
